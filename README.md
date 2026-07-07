@@ -31,5 +31,6 @@ Each argument is tagged with its source (user or AI) for transparency.
 The user picks their decision and sets a time horizon for when its impact will be clear (e.g. 1 week, 1 month, 3 months, 1 year, or a custom period). The decision is saved with status pending.
 
 5.Check-in
+
 When the chosen time horizon passes, the app prompts the user to record the outcome. Status changes to completed.
 If ignored, the decision stays pending and will resurface the next time the user logs a related decision (see step 2).
