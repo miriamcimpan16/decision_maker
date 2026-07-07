@@ -21,13 +21,15 @@ If a similar decision is still pending (no recorded outcome yet), the app remind
 If a similar decision is completed, the app shows how it turned out, as a reference point.
 
 3. Pros and cons
+
 The user can write their own arguments, or let the app generate them.
 If AI-generated, the model uses the given context — and, when available, insights from similar past decisions — to produce more relevant arguments.
 Each argument is tagged with its source (user or AI) for transparency.
 
 
 
-4. Final choice
+4.Final choice
+
 The user picks their decision and sets a time horizon for when its impact will be clear (e.g. 1 week, 1 month, 3 months, 1 year, or a custom period). The decision is saved with status pending.
 
 5.Check-in
