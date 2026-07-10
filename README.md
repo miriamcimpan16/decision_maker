@@ -36,3 +36,10 @@ The user picks their decision and sets a time horizon for when its impact will b
 
 When the chosen time horizon passes, the app prompts the user to record the outcome. Status changes to completed.
 If ignored, the decision stays pending and will resurface the next time the user logs a related decision (see step 2).
+
+Python = motorul
+CustomTkinter = caroseria și bordul (ce vezi)
+JSON = portbagajul unde se păstrează lucrurile
+OpenAI API = un prieten foarte deștept pe care îl întrebi când ai nevoie
+PyInstaller = fabrica care transformă proiectul într-un program .exe
+
