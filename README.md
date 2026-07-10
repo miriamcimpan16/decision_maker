@@ -38,8 +38,12 @@ When the chosen time horizon passes, the app prompts the user to record the outc
 If ignored, the decision stays pending and will resurface the next time the user logs a related decision (see step 2).
 
 Python = motorul
+
 CustomTkinter = caroseria și bordul (ce vezi)
+
 JSON = portbagajul unde se păstrează lucrurile
+
 OpenAI API = un prieten foarte deștept pe care îl întrebi când ai nevoie
+
 PyInstaller = fabrica care transformă proiectul într-un program .exe
 
